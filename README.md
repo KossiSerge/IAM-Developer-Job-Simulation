@@ -11,4 +11,4 @@ Working on a project as IAM Developer for a client.
 
 ## Certificate
 
-![Certificate.pdf](https://github.com/user-attachments/files/17563912/Certificate.pdf)
+![cert](https://github.com/user-attachments/assets/b03f6f1a-00e2-4134-8d1b-299a33ceed35)
