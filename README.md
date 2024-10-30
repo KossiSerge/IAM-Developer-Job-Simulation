@@ -1,6 +1,4 @@
 ## IAM-Developer-Job-Simulation
-Working on a project as IAM Developer for a client.
-
 
 #### Completed a job simulation involving identy and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
 
